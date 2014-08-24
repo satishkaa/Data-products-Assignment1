@@ -1,0 +1,3 @@
+DisplayMode: Showcase
+Tags: getting-started
+Type: ShinY

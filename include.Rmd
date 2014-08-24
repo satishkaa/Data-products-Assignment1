@@ -1,0 +1,26 @@
+Help Document
+========================================================
+
+The objective of this app is to help car buyers identify which factors play a crucial role in determining the mileage.
+
+We based our study based on data extracted from 1974 Motor Trend US Magazine. 
+
+The interactive app helps the users identify the relationship between MPG (miles per gallon) and the following variables for each category ( 4 cylinders, 6 cylinders or 8 cylinders)
+
+
+ - disp (Displacement)
+ - wt (Weight in lb/1000)
+ - hp (Gross horsepower)
+ - drat (Rear axle ratio)
+ - qsec (1/4 mile time)
+
+
+Please select No of cylinders and the variable of interest (disp,wt,hp,drat,qsec)
+
+We display the relationship plot between variable of interest and MPG for the specified number of cylinders.
+
+We also display the linear regression equation of the relation and R2 of the model.
+
+We also present the data used in analysis of the specified category for reference.
+
+<b> Thank You !!! 
